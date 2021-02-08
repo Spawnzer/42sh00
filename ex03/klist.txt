@@ -1,0 +1,6 @@
+Credentials cache: API:C111D391-E2B8-4E9C-9F0F-50A91A3FACBC
+        Principal: adubeau@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Feb  8 09:03:04 2021  Feb  8 19:03:04 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
+Feb  8 09:03:06 2021  Feb  8 19:03:04 2021  HTTP/student-storage.42quebec.com@42QUEBEC.COM
